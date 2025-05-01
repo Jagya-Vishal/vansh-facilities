@@ -63,7 +63,7 @@ const Quote = () => {
         `Hello Vansh Facility Services,\n\nI'm interested in your ${formData.service} service.\n\nName: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\nAddress: ${formData.address}\n\nMessage: ${formData.message || "N/A"}`
       );
       
-      window.open(`https://wa.me/+919999999999?text=${whatsappMessage}`, "_blank");
+      window.open(`https://wa.me/+919266025454?text=${whatsappMessage}`, "_blank");
     }
   };
 

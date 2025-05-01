@@ -21,7 +21,7 @@ const CTA = () => {
               <Button 
                 variant="outline" 
                 size="lg" 
-                className="w-full sm:w-auto text-white border-white hover:bg-white hover:text-gray-900"
+                className="w-full sm:w-auto text-gray-900 border-white hover:bg-white hover:text-gray-300"
               >
                 Contact Us
               </Button>

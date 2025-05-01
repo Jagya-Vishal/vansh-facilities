@@ -31,7 +31,7 @@ const Contact = () => {
                 <h3 className="text-lg font-bold mb-2">Our Address</h3>
                 <p className="text-gray-600">
                   P-83, Vijay Vihar, Uttam Nagar,<br /> 
-                  Delhi 110059
+                  Delhi 110077
                 </p>
               </CardContent>
             </Card>
@@ -43,8 +43,8 @@ const Contact = () => {
                 </div>
                 <h3 className="text-lg font-bold mb-2">Phone Number</h3>
                 <p className="text-gray-600">
-                  <a href="tel:+919999999999" className="hover:text-primary">
-                    +91 99999 99999
+                  <a href="tel:+91 9266025454" className="hover:text-primary">
+                    +91 92660 25454
                   </a>
                 </p>
               </CardContent>
